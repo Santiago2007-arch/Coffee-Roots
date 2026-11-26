@@ -1,10 +1,5 @@
 # Coffee Roots — Online Shopping Interface
 
-A responsive, interactive English-language Colombian coffee store prototype for an educational design activity.
-
-## How to run
-Open `index.html` in Chrome, Edge, or Firefox. No installation or server is required. (Web fonts require internet; fallback fonts work offline.)
-
 ## Features
 - Four coffee products with names, descriptions, roast level, origin, and COP prices.
 - Filter by roast and add in-stock coffees to the cart.
